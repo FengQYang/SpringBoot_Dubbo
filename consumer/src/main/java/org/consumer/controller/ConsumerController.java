@@ -18,6 +18,7 @@ import javax.annotation.Resource;
 public class ConsumerController {
     
     //远程自己
+    //1+1=2
 
     @Resource
     private ConsumerService consumerService;
