@@ -17,7 +17,7 @@ import javax.annotation.Resource;
 @RequestMapping("/Consumer")
 public class ConsumerController {
     
-    //aaa
+    //远程自己
 
     @Resource
     private ConsumerService consumerService;
