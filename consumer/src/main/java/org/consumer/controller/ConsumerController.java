@@ -19,8 +19,6 @@ public class ConsumerController {
 
     //2+2=4
 
-    //ssss
-
     @Resource
     private ConsumerService consumerService;
 
