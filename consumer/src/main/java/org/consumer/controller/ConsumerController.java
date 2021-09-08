@@ -18,6 +18,7 @@ import javax.annotation.Resource;
 public class ConsumerController {
 
     //2+2=4
+    //3+3=6
 
     @Resource
     private ConsumerService consumerService;
