@@ -19,6 +19,8 @@ public class ConsumerController {
     
     //远程dev
 
+    //ssss
+
     @Resource
     private ConsumerService consumerService;
 
